@@ -1,7 +1,7 @@
 
 import './App.css';
-import Quotes from './componets/Quotes';
-import './index.css'
+import Quotes from './componets/QuotesBox';
+import './componets/css/index.css'
 
 
 

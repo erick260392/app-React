@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import Labels from '../Labels.json'
+import Labels from './Labels.json'
 
 
 
