@@ -1,15 +1,16 @@
 
 import './App.css';
-
 import Quotes from './componets/Quotes';
+import './index.css'
 
 
 
-console.log(Quotes);
+
 
 function App() {
   return (
     <div className="App">
+
 
    <Quotes/>
  
